@@ -13,3 +13,4 @@ az storage account create \
 az storage container create \
     --name tfstate \
     --account-name myterraformstate12345
+
