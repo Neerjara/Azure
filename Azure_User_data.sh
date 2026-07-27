@@ -1,5 +1,5 @@
 #cloud-config
-# User data to install docker, azure cli & kubectl on Ubuntu 24
+# iUser data to install docker, azure cli & kubectl on Ubuntu 24
 package_update: true
 package_upgrade: false
 
